@@ -36,4 +36,4 @@ Installing Geode-Conversion is done by using pip command ```pip install Geode-Co
 
 For questions and support please use the official [slack](https://slackin-opengeode.herokuapp.com) and go to the channel #help. The issue list of this repo is exclusively for bug reports and feature requests. 
 
-Copyright (c) 2019 - 2021, Geode-solutions
+Copyright (c) 2019 - 2022, Geode-solutions
