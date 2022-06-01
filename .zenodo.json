@@ -1,6 +1,5 @@
 {
     "description": "Common module for proprietary Geode-solutions OpenGeode modules",
     "title": "Geode-Common",
-    "license": "proprietary",
     "creators": [{"name": "Geode-solutions"}]
 }
